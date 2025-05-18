@@ -76,15 +76,13 @@
                 <div class="form">
                     <h6 class="subtitle">Available 24/7</h6>
                     <h6 class="section-title mb-4">Get In Touch</h6>
-                    <form>
+                    <form method="post" action="send_mail.php">
                         <div class="form-group">
-                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
+                            <input type="email" class="form-control" id="exampleInputEmail1" name="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
                         </div>
+                        
                         <div class="form-group">
-                            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" required>
-                        </div>
-                        <div class="form-group">
-                            <textarea name="contact-message" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+                            <textarea  id="msg" name="msg" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary btn-block rounded w-lg">Send Message</button>
                     </form>
@@ -108,7 +106,7 @@
                         <i class="ti-email"></i>
                         <div class="mb-0">
                             <h5>Email Address</h5>
-                            <p>info@website.com</p>
+                            <p>info@codebyharsh.com</p>
                         </div>
                     </div>
                 </div>                  

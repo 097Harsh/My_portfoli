@@ -68,25 +68,25 @@
         <div class="container text-center">
             <h6 class="subtitle">Portfolio</h6>
             <h6 class="section-title mb-4">Check My Wonderful Works</h6>
-            <p class="mb-5 pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In alias dignissimos. <br> rerum commodi corrupti, temporibus non quam.</p>
+            <p class="mb-5 pb-4">A collection of projects I’ve completed, each reflecting my skills, creativity, and problem-solving abilities..</p>
 
             <div class="row">
                 <div class="col-sm-4">
                     <div class="img-wrapper">
-                        <img src="assets/imgs/folio-1.jpg" alt="">
+                        <img src="assets/imgs/helping_hand.png" alt="">
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>Project Title</h5>
+                                <h5>Helping-Hand(NGO)</h5>
                                 <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
                                 <a href="javascript:void(0)"><i class="ti-link"></i></a>
                             </div>  
                         </div>
                     </div>
                     <div class="img-wrapper">
-                        <img src="assets/imgs/folio-2.jpg" alt="">
+                        <img src="assets/imgs/job_portal.jpg" alt="">
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>Project Title</h5>
+                                <h5>TalentHunt</h5>
                                 <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
                                 <a href="javascript:void(0)"><i class="ti-link"></i></a>
                             </div>                              
@@ -95,20 +95,20 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="img-wrapper">
-                        <img src="assets/imgs/folio-3.jpg" alt="">
+                        <img src="assets/imgs/1.png" alt="">
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>Project Title</h5>
+                                <h5>Patient Appoinment Application</h5>
                                 <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
                                 <a href="javascript:void(0)"><i class="ti-link"></i></a>
                             </div>  
                         </div>
                     </div>
                     <div class="img-wrapper">
-                        <img src="assets/imgs/folio-4.jpg" alt="">
+                        <img src="assets/imgs/burger_bun.png" alt="">
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>Project Title</h5>
+                                <h5>Burger-Bun Cafe</h5>
                                 <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
                                 <a href="javascript:void(0)"><i class="ti-link"></i></a>
                             </div>                              
@@ -117,15 +117,16 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="img-wrapper">
-                        <img src="assets/imgs/folio-5.jpg" alt="">
+                        <img src="assets/imgs/auction.png" alt="">
                         <div class="overlay">
                             <div class="overlay-infos">
-                                <h5>Project Title</h5>
+                                <h5>Auction Hub Logo design</h5>
                                 <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
                                 <a href="javascript:void(0)"><i class="ti-link"></i></a>
                             </div>  
                         </div>
                     </div>
+                    <!--  
                     <div class="img-wrapper">
                         <img src="assets/imgs/folio-6.jpg" alt="">
                         <div class="overlay">
@@ -135,7 +136,8 @@
                                 <a href="javascript:void(0)"><i class="ti-link"></i></a>
                             </div>                              
                         </div>
-                    </div>                  
+                    </div>  
+                    -->                
                 </div>
             </div>
 
